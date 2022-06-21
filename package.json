@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "career_switch",
+  "version": "1.0.0",
+  "description": "career_switch",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karladuran28/career_switch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karladuran28/career_switch/issues"
+  },
+  "homepage": "https://github.com/karladuran28/career_switch#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "stackjs": "^1.0.0"
+  }
+}
